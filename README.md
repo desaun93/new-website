@@ -1,7 +1,7 @@
 # new-website
 This is how to start from scatch
 
-## Her's a few steps
+## Here's a few steps
 `code piece`
 
 -Find a topic
